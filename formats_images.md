@@ -1,3 +1,11 @@
+---
+layout: default
+title: Formats d'image
+permalink: /formats_images/
+published: true
+date: 2026
+---
+
 # Formats d'image : quel fichier pour quel usage ?
 
 ## 1. Deux grandes familles
