@@ -34,7 +34,7 @@ date: 2026
 
 ## 3. Quel format pour quel usage ? (mémo)
 
-- Photo pour un site web → **WebP** (ou AVIF)
+- Photo pour un site web / une application → **WebP** (ou AVIF)
 - Photo à envoyer par mail → **JPEG** (qualité 80 %)
 - Logo ou icône pour le web → **SVG**
 - Capture d'écran, maquette d'interface → **PNG**
