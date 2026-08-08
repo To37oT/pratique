@@ -20,8 +20,8 @@ Comprendre concrètement l'impact du choix de format sur le poids, la qualité e
 
 ## Matériel
 
-- Une photo fournie par l'enseignant (haute définition, ex. 4000 × 3000 px) OU une photo prise par l'élève
-- Un logo simple fourni en vectoriel (SVG ou AI)
+- [Une photo haute définition]({{site.baseurl}}/assets/exo_formats_images.jpg)
+- [Une image simple fournie en vectoriel]({{site.baseurl}}/assets/exo_formats_images_2.svg)
 - Un logiciel d'export : Photoshop, Photopea (gratuit, en ligne), GIMP ou Affinity
 
 ## Partie 1 — La photo (20 min)
