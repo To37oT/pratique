@@ -61,3 +61,5 @@ date: 2026
 4. Viser moins de 200–300 Ko pour une image web courante (éco-conception).
 5. Vérifier le mode colorimétrique (RVB/CMJN) selon la destination.
 6. Toujours garder ses fichiers sources (RAW, PSD, AI).
+
+[Exercice d'application]({{site.baseurl}}/exercice_formats_images/)<br>
