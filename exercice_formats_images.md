@@ -1,3 +1,15 @@
+---
+layout: default
+title: Exercice formats d'image
+permalink: /exercice_formats_images/
+published: true
+date: 2026
+---
+
+# Formats d'image : quel fichier pour quel usage ?
+
+## 1. Deux grandes familles
+
 # Exercice pratique : un fichier, cinq formats
 
 **Durée : environ 45 min — Travail individuel ou en binôme**
