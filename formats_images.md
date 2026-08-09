@@ -63,3 +63,10 @@ date: 2026
 6. Toujours garder ses fichiers sources (RAW, PSD, AI).
 
 [Exercice d'application]({{site.baseurl}}/exercice_formats_images/)<br>
+
+## 6. Ressources
+
+- [https://blog.wiptify.com/astuces/formats-images/](https://blog.wiptify.com/astuces/formats-images/)
+- [https://antistatique.net/blog/pixel-perfect-ou-presque](https://antistatique.net/blog/pixel-perfect-ou-presque)
+- [https://hiredigital.com/blog/jpg-vs-webp-vs-avif-2026](https://hiredigital.com/blog/jpg-vs-webp-vs-avif-2026)
+- [https://www.photopea.com/](https://www.photopea.com/)
