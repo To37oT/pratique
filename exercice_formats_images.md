@@ -7,11 +7,11 @@ date: 2026
 duration : 45
 ---
 
+[Lien vers fichier pdf]({{site.baseurl}}/assets/exo_formats_images.pdf)
+
 # Formats d'image : quel fichier pour quel usage ?
 
 ## 1. Deux grandes familles
-
-# Exercice pratique : un fichier, cinq formats
 
 ## Objectif
 
