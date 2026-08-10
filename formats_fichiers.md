@@ -12,7 +12,7 @@ Pour vos projets : on n'invente pas sa convention : on adopte celle de l'écosys
 
 Cette convention vise à garantir une organisation claire, lisible et compatible des fichiers numériques utilisés dans le cadre de vos projets (images, documents, maquettes, etc.).
 
-Nous utiliserons la convention de nommage en **kebab-case** (mots séparés par des tiret comme s'ils étaient embrochés), sans majuscule, sans accents.
+Nous utiliserons la convention de nommage en **kebab-case** (mots séparés par des tirets comme s'ils étaient embrochés), sans majuscule, sans accents.
 
 ## Règles de base
 
