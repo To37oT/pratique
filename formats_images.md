@@ -27,8 +27,8 @@ date: 2026
 | GIF | Matriciel | Sans perte (256 couleurs) | Oui | Historique ; remplacé par WebP/AVIF animés |
 | TIFF | Matriciel | Sans perte | Oui | Impression, archivage haute qualité |
 | PSD | Matriciel | — | Oui | Fichier de travail Photoshop (calques) |
-| RAW (.CR3, .NEF, .DNG) | Matriciel | Sans perte | — | « Négatif numérique » des appareils photo |
-| SVG | Vectoriel | — (fichier texte) | Oui | Logos et icônes pour le web, animable en CSS |
+| RAW (.CR3, .NEF, .DNG) | Matriciel | Sans perte | — | Données brutes des appareils photo, très lourd |
+| SVG | Vectoriel | — (fichier texte) | Oui | Logos et icônes pour le web, animable en CSS, très léger |
 | PDF | Mixte | Au choix | Oui | Échange universel, envoi en imprimerie (PDF/X) |
 | AI | Vectoriel | — | Oui | Fichier de travail Illustrator |
 
